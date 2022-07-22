@@ -1,0 +1,239 @@
+/* ------------------TABLET----------------------- */
+@media(max-width:768px){
+    body{
+       font-size:16px;
+    }
+    .img1{
+        width: 760px;
+
+    }
+    #banner, .mybanner, .test{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .flex1{
+     display: flex;
+     width: 750px;
+     height: 100px;
+     font-size: 12px;
+    }
+    a:link{
+        font-size: 18px;
+    }
+    .containerxx{
+        width: 760px;
+        padding: 0;
+        
+    }
+    .con{
+        font-size: 14px;
+    }
+.contact1,.contact2,.contact3,.contact4{
+    width: 150px;
+    margin: 0;
+    font-size: 18px;
+
+}
+.container2{
+    display: flex;
+    width: 100%;
+    margin: 0;
+}
+.item1, .item2{
+    width: 50%;
+}
+.target2{
+    margin-left:50px;
+  
+}
+.section-title1{
+    margin-left:50px;
+}
+ .container3{
+    display:flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 0;
+ 
+}
+.job14{
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+    gap: 20px;
+}
+.job25{ 
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    gap: 20px;
+
+}
+.job36{
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+    gap: 20px;
+}
+.job1{
+    height: 420px;   
+}
+.job4{
+    height: 420px;
+}
+.job2{
+    height: 370px;
+}
+.job5{
+    height: 370px;
+}
+.job3{
+    height: 310px;
+}
+.job6{
+    height: 310px;
+}
+.job1,.job2,.job3,.job4,.job5,.job6{
+    width: 50%;
+}
+.hobby{
+    padding-top: 100px;
+}
+.icon4{
+    font-size: 40px;
+}
+.ticon{
+    font-size: 16px;
+}
+.container4{
+    height: 680px;
+    display: grid;
+    grid-template-columns: 350px 350px;
+    grid-template-rows: 350px;
+    gap: 0px;
+}
+.div1{
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid #fd7e14;
+}
+.div2{
+    display: flex;
+    flex-direction: column;
+}
+.div3{
+    display: flex;
+    flex-direction: column;
+}
+.img2{
+    width: 310px;
+    padding: 20px;
+    height: 200px;
+}
+.a1{
+    padding-left: 35px;
+}
+.a2{
+    margin-top: 0;
+    padding-bottom: 0;
+}
+.section-title4{
+    padding-top: 40px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.container5{
+    flex-direction: row;
+    display: flex;
+    gap: 15px;
+    width: 750px;
+    margin-left: 0;
+    margin-bottom: 0;
+
+}
+
+.proj1{
+    width: 238px;
+    height: 510px;
+    border: 1px solid#868e96 ;
+}
+.proj2{
+    width: 238px;
+    height: 510px;
+    border: 1px solid#868e96 ;
+}
+.proj3{
+    width: 238px;
+    height: 510px;  
+    border: 1px solid#868e96 ;  
+}
+.img-pro{
+    width: 236px;
+    height: 136px;
+}
+.containeraa{
+    width: 750px;
+}
+.table1{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.pro1{
+    column-gap: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

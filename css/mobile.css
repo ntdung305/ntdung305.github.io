@@ -1,0 +1,209 @@
+/* ------------------MOBILE---------------------- */
+
+@media(max-width:500px)
+{
+    
+    .img1{
+        width: 470px;
+        height: 700px;
+    }
+    .mybanner{
+        height: 700px;}
+ 
+    .flex1{
+        flex-direction: column;
+        display: flex;
+        height: 180px;
+        margin-top: 20px;
+    }
+    .contact1{
+       width: 160px;
+    }
+    .contact2{
+        padding-left: 0px;
+        width: 130px;
+    }
+    .contact3{
+        width: 170px;
+    }
+    .contact4{
+        width: 120px;
+
+    }
+    .containerxx{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: 200px;
+    }
+    .test{
+        flex-direction: column;
+        display: flex;
+        height: 980px;
+    
+    }
+
+    a:link{
+        text-decoration:none;
+        font-size: 18px;
+        color:#212529 ;
+        margin: 5px;
+        font-family: 'Inter' sans-serif;
+    }
+    .container2{
+        flex-direction: column;
+        display: flex;
+        height: 800px;
+    }
+    .item1{
+        width: 450px;
+        height: 350px;
+
+    }
+    .item2{
+        width: 450px;
+        height: 450px;
+    }
+    .section-title1,.section-title2{
+        margin-top: 80px 0;
+
+    }
+    .section-title4{
+        padding-top:  30px;
+
+    }
+    .info,.target2{
+        font-family: 'Inter' sans-serif;
+        font-size: 14px;
+    }
+
+    .job14{
+        display: flex;
+        flex-direction: column;
+        margin: 0px auto;
+        gap: 20px;  
+    }
+    .job25{ 
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+        gap: 20px;
+    
+    }
+    .job36{
+        display: flex;
+        flex-direction: column;
+        margin: 0px auto;
+        gap: 20px;
+    }
+    .job1{
+        height: 420px;  
+        width: 430px; 
+    }
+    .job4{
+        height: 220px;
+        width: 430px; 
+    }
+    .job2{
+        height: 370px;
+        width: 430px; 
+    }
+    .job5{
+        height: 220px;
+        width: 430px; 
+    }
+    .job3{
+        height: 350px;
+        width: 430px; 
+    }
+    .job6{
+        height: 300px;
+        width: 430px; 
+    }
+    .hobby{
+        padding-top: 20px;
+    }
+    .item3{
+        padding-left: 60px;
+    }
+    .container04{
+        width: 450px;
+    }
+    .container4{
+        display: flex;
+        flex-direction: column;
+        height: 1000px;
+        width: 400px;
+        margin: 0 10px;
+        gap: 30px;
+    }
+    .div1,.div2,.div3{
+        height: 300px;
+        flex-direction: column;
+        display: flex;
+        margin: 0 auto;
+        gap: 20px;
+        
+    }
+    .img2{
+        height: 200px;
+        width: 360px;
+        margin: 0;
+        padding: 0;
+        justify-content: center;
+        justify-items: center;
+        
+    }
+    .div1, .div2{
+        border-bottom: 1px solid #fd7e14;
+        border-right: none;
+    }
+    .igg{
+        margin: 0 20px;
+    }
+    .container5{
+        display: flex;
+        flex-direction: column;
+        width: 450px;
+        gap:30px;   
+    
+
+    }
+    .proj1,.proj2,.proj3{
+        width: 450px;
+        height: 600px;
+        margin: 0 20px;
+    }
+    .containeraa{
+        margin: 0 auto;
+    }
+    .img-pro{
+        width: 448px;
+        height: 256px;
+    }
+
+    .container6{
+        width: 450px;
+        height: 90px;
+        margin: 20px auto;
+        background-color: #fff;
+        padding-left: 45px;
+    }
+    .hihi{
+        color: #fff;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
